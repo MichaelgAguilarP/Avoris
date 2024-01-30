@@ -1,8 +1,8 @@
-package com.es.avoris.avoris.helper;
+package com.es.helper;
 
-import com.es.avoris.avoris.model.Hotel;
-import com.es.avoris.avoris.model.HotelDetail;
-import com.es.avoris.avoris.service.AvorisHotelService;
+import com.es.model.Hotel;
+import com.es.model.HotelDetail;
+import com.es.service.AvorisHotelService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

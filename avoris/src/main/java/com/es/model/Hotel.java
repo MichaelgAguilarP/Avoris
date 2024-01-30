@@ -1,4 +1,4 @@
-package com.es.avoris.avoris.model;
+package com.es.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonInclude;

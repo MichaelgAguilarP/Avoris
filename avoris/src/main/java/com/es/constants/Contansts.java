@@ -1,4 +1,4 @@
-package com.es.avoris.avoris.constants;
+package com.es.constants;
 
 public class Contansts {
 
@@ -6,4 +6,6 @@ public class Contansts {
 
     public static final String REST_AVORIS_SEARCH = "/search";
 
+    private Contansts() throws IllegalAccessException { throw  new IllegalAccessException("Utility class");
+    }
 }

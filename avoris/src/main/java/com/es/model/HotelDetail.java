@@ -1,4 +1,4 @@
-package com.es.avoris.avoris.model;
+package com.es.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import org.springframework.stereotype.Repository;

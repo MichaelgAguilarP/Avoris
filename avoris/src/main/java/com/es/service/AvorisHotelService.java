@@ -1,7 +1,7 @@
-package com.es.avoris.avoris.service;
+package com.es.service;
 
-import com.es.avoris.avoris.model.Hotel;
-import com.es.avoris.avoris.model.HotelDetail;
+import com.es.model.Hotel;
+import com.es.model.HotelDetail;
 import org.springframework.stereotype.Service;
 
 @Service
