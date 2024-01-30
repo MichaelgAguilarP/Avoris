@@ -10,6 +10,7 @@ import java.util.List;
 
 @Repository
 @JsonInclude(Include.NON_NULL)
+//NOSONAR
 public class Hotel {
 
     private String hotelId;

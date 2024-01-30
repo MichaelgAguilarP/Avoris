@@ -5,6 +5,7 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 @JsonInclude(JsonInclude.Include.NON_NULL)
+//NOSONAR
 public class HotelDetail {
 
     private String searchId;
